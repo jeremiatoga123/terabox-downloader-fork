@@ -10,7 +10,7 @@ import requests
 app = Flask(__name__)
 
 # TeraBox cookies dari script pertama
-COOKIE = "ndus=YumlKL1peHuism-iCeHS93vJnjxNw_XN_ZFrm5VB"  # add your own cookies
+COOKIE = "ndus=Yup9SLkpeHuiUZ3F6c7EBJhVp_HOO1N-TewUSukc"  # add your own cookies
 
 # Headers dari script pertama
 HEADERS = {
